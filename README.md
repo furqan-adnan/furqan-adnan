@@ -1,6 +1,5 @@
-<!-- CUTE ANIMATED CAT & MOON HEADER -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/furqan-adnan/furqan-adnan/main/cat-moon.gif" width="100%" style="max-width: 700px; border-radius: 10px;" alt="Aesthetic Cat and Moon Banner" />
+  <img src="https://media.giphy.com/media/L1R1tvI9sv3y0/giphy.gif" width="100%" style="max-width: 700px; border-radius: 10px;" alt="Cat and Moon Banner" />
 </div>
 
 <br />
