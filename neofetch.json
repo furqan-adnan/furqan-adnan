@@ -15,7 +15,7 @@
     {
       "fields": [
         { "key": "Languages", "value": "{{languages}}" },
-        { "key": "Tech Stack", "value": "React, FastAPI, Python, TypeScript, JavaScript, SQL, PyTorch, Tailwind CSS" }
+        { "key": "Tech Stack", "value": "React, FastAPI, PyTorch, Tailwind" }
       ]
     },
     {
