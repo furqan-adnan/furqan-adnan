@@ -1,4 +1,5 @@
 {
+  "image": "https://github.com/furqan-adnan/furqan-adnan/blob/main/(1).jpg",
   "removeBackground": false,
   "sections": [
     {
@@ -13,7 +14,7 @@
     {
       "fields": [
         { "key": "Languages", "value": "{{languages}}" },
-        { "React, FastAPI, Python, TypeScript, JavaScript, SQL, PyTorch, Tailwind CSS" }
+        { "key": "Tech Stack", "value": "React, FastAPI, Python, TypeScript, JavaScript, SQL, PyTorch, Tailwind CSS" }
       ]
     },
     {
