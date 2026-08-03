@@ -1,6 +1,6 @@
-<!-- TYPEWRITER ANIMATED HEADER -->
+<!-- CUTE ANIMATED CAT & MOON HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Muhammad+Furqan+Adnan;Backend+Engineering+%26+Distributed+Systems;Applied+AI%2FML+%26+RAG+Pipelines;Building+End-to-End+SaaS+Products" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/furqan-adnan/furqan-adnan/main/cat-moon.gif" width="100%" style="max-width: 700px; border-radius: 10px;" alt="Aesthetic Cat and Moon Banner" />
 </div>
 
 <br />
