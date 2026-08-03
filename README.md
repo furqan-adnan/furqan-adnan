@@ -66,37 +66,6 @@
 
 ---
 
-## Featured projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>DukanSync</h3>
-      <p>Offline-first point-of-sale and credit-tracking (khata) system for local retail shops in Pakistan.</p>
-      <p><code>Offline-first</code> · <code>POS & khata</code> · <code>Desktop / web</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>AI SAT Tutor</h3>
-      <p>Self-hosted SAT prep assistant. FastAPI backend running Gemma 2 9B, with a BM25 + RAG pipeline grounded in my own OCR'd study notes.</p>
-      <p><code>FastAPI</code> · <code>React</code> · <code>RAG</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Brain Tumor Classifier</h3>
-      <p>MRI brain tumor detection using a fine-tuned ResNet50, reaching 99.14% accuracy.</p>
-      <p><code>PyTorch</code> · <code>ResNet50</code> · <code>Computer vision</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Personal Portfolio</h3>
-      <p>My developer portfolio site, built with React and deployed on Vercel.</p>
-      <p><code>React</code> · <code>Vercel</code> · <code>Tailwind</code></p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## Beyond the code
 
 * **AI/ML & computer vision** — the main focus of my internship search right now
