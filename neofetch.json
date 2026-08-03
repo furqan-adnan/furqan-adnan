@@ -1,6 +1,6 @@
 {
   "image": "https://raw.githubusercontent.com/furqan-adnan/furqan-adnan/main/(1).jpg",
-  "removeBackground": false,
+  "removeBackground": true,
   "sections": [
     {
       "title": "{{username}}@github",
