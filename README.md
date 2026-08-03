@@ -75,5 +75,5 @@
 ---
 
 <div align="center">
-  Reach me via <a href="mailto:furqan.adnan1818@gmail.com"><b>Email</b></a> or <a href="https://linkedin.com/in/furqan-adnan"><b>LinkedIn</b></a>
+  Reach me via <a href="mailto:furqan.adnan1818@gmail.com"><b>Email</b></a>
 </div>
