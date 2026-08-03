@@ -23,13 +23,7 @@
 
 ---
 
-## GitHub stats
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=furqan-adnan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" />
-  &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furqan-adnan&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" />
-</div>
 
 ---
 
