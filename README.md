@@ -21,7 +21,7 @@
 > **Computer Science student @ FAST NUCES, Lahore**
 > Building backend systems, retrieval pipelines, and applications end to end. Interested in AI/ML, computer vision, and web development.
 
----
+
 
 
 
