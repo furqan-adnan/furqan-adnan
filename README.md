@@ -19,7 +19,7 @@
 ## Quick overview
 
 > **Computer Science student @ FAST NUCES, Lahore**
-> Building backend systems, retrieval pipelines, and applications end to end. Interested in AI/ML, computer vision, and web development.
+> Building backend systems, retrieval pipelines, and applications end to end. Interested in AI/ML, web development and SaaS.
 
 
 
@@ -68,9 +68,10 @@
 
 ## Beyond the code
 
-* **AI/ML & computer vision** — the main focus of my internship search right now
-* **Product & entrepreneurship** — interested in FMCG supply chain optimization, and in building tools people actually use (DukanSync started from this)
-* **Freelancing & side income** — exploring this alongside internships
+
+* **Product & entrepreneurship** — interested in building tools people actually use.
+* **User-Centric Philosophy** — Passionate about shipping tools that don't require a 40-page PDF manual or a therapist to navigate.
+
 
 ---
 <div align="center">
