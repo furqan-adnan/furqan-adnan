@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/133QeNpREBm3o350B3/giphy.gif" width="100%" style="max-width: 700px; border-radius: 10px;" alt="Cat and Moon Banner" />
+  <img src="https://raw.githubusercontent.com/furqan-adnan/furqan-adnan/main/cat-moon-banner.svg" width="100%" style="max-width: 700px;" alt="Cat and moon banner" />
 </div>
 
 <br />
@@ -16,14 +16,14 @@
 
 ---
 
-## ⚡ Quick Overview
+## Quick overview
 
-> **Computer Science Student @ FAST NUCES Lahore**  
-> Focused on architecting robust backends, intelligent retrieval engines, and high-performance applications. Enthusiastic about personal finance, wealth preservation strategies, and shipping end-to-end software.
+> **Computer Science student @ FAST NUCES, Lahore**
+> Building backend systems, retrieval pipelines, and applications end to end. Interested in AI/ML, computer vision, and web development.
 
 ---
 
-## 📊 GitHub Analytics Dashboard
+## GitHub stats
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=furqan-adnan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" />
@@ -33,7 +33,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Ecosystem
+## Tech stack
 
 <table>
   <tr>
@@ -51,19 +51,17 @@
     <td>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-      <img src="https://img.shields.io/badge/RAG_Pipelines-FF6F61?style=for-the-badge&logo=openai&logoColor=white" />
-      <img src="https://img.shields.io/badge/BM25_Retrieval-4A90E2?style=for-the-badge&logo=elastic&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td width="20%"><b>Frontend & UI</b></td>
+    <td width="20%"><b>Frontend</b></td>
     <td>
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td width="20%"><b>Tools & Cloud</b></td>
+    <td width="20%"><b>Tools & hosting</b></td>
     <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -74,51 +72,45 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛒 dukansync</h3>
-      <p>An <b>offline-first Point-of-Sale (POS)</b> and credit-tracking (khata) system tailored for local retail businesses in Pakistan.</p>
-      <p><code>Offline-First</code> • <code>POS & Khata</code> • <code>Desktop / Web</code></p>
+      <h3>DukanSync</h3>
+      <p>Offline-first point-of-sale and credit-tracking (khata) system for local retail shops in Pakistan.</p>
+      <p><code>Offline-first</code> · <code>POS & khata</code> · <code>Desktop / web</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎓 AI SAT Tutor</h3>
-      <p>Self-hosted intelligent SAT preparation engine featuring a hybrid <b>BM25 + RAG</b> search pipeline for quick retrieval.</p>
-      <p><code>FastAPI</code> • <code>React</code> • <code>RAG Engine</code></p>
+      <h3>AI SAT Tutor</h3>
+      <p>Self-hosted SAT prep assistant. FastAPI backend running Gemma 2 9B, with a BM25 + RAG pipeline grounded in my own OCR'd study notes.</p>
+      <p><code>FastAPI</code> · <code>React</code> · <code>RAG</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 Brain Tumor Classifier</h3>
-      <p>End-to-end deep learning diagnostic pipeline utilizing a custom-tuned <b>ResNet50 CNN</b> architecture to detect MRI brain tumors.</p>
-      <p><code>PyTorch</code> • <code>ResNet50</code> • <code>Computer Vision</code></p>
+      <h3>Brain Tumor Classifier</h3>
+      <p>MRI brain tumor detection using a fine-tuned ResNet50, reaching 99.14% accuracy.</p>
+      <p><code>PyTorch</code> · <code>ResNet50</code> · <code>Computer vision</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌐 Personal Portfolio</h3>
-      <p>Personal developer showcase site built with modern web tech and deployed on Vercel infrastructure.</p>
-      <p><code>React</code> • <code>Vercel</code> • <code>Tailwind</code></p>
+      <h3>Personal Portfolio</h3>
+      <p>My developer portfolio site, built with React and deployed on Vercel.</p>
+      <p><code>React</code> · <code>Vercel</code> · <code>Tailwind</code></p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🎯 Beyond Code
+## Beyond the code
 
-* 📈 **Personal Finance & Wealth**: Deeply interested in inflation hedging, portfolio preservation, and mutual fund mechanisms.
-* 🛠️ **Product Mindset**: Building tools that move from ideation $\rightarrow$ database architecture $\rightarrow$ deployment seamlessly.
-
----
-
-<!-- CONTRIBUTIONS SNAKE GRAPH -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</div>
+* **AI/ML & computer vision** — the main focus of my internship search right now
+* **Product & entrepreneurship** — interested in FMCG supply chain optimization, and in building tools people actually use (DukanSync started from this)
+* **Freelancing & side income** — exploring this alongside internships
 
 ---
 
 <div align="center">
-  💬 Connect with me via <a href="mailto:furqan.adnan1818@gmail.com"><b>Email</b></a> or <a href="https://linkedin.com/in/furqan-adnan"><b>LinkedIn</b></a>
+  Reach me via <a href="mailto:furqan.adnan1818@gmail.com"><b>Email</b></a> or <a href="https://linkedin.com/in/furqan-adnan"><b>LinkedIn</b></a>
 </div>
