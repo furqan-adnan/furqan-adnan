@@ -75,5 +75,5 @@
 ---
 
 <div align="center">
-  Reach me via <a href="mailto:furqan.adnan1818@gmail.com"><b>Email</b></a>
+  Reach me via <a href="https://mail.google.com/mail/?view=cm&fs=1&to=furqan.adnan1818@gmail.com"><b>Email</b></a>
 </div>
