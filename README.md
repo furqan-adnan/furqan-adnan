@@ -68,10 +68,9 @@
 
 ## Beyond the code
 
-
-* **Product & entrepreneurship** — interested in building tools people actually use.
+* **Sleep enthusiast** — because even computers need a restart.
 * **User-Centric Philosophy** — Passionate about shipping tools that don't require a 40-page PDF manual or a therapist to navigate.
-
+* **Curiosity-driven** — always exploring new ideas and technologies.
 
 ---
 <div align="center">
