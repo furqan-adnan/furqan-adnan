@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/furqan-adnan/furqan-adnan/main/cat-moon-banner.svg" width="100%" style="max-width: 700px;" alt="Cat and moon banner" />
+  <img src="https://raw.githubusercontent.com/furqan-adnan/furqan-adnan/refs/heads/main/cat-moon-banner.svg" width="100%" style="max-width: 700px;" alt="Cat and moon banner" />
 </div>
 
 <br />
