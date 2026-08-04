@@ -73,11 +73,6 @@
 
 ---
 <div align="center">
-  <a href="mailto:furqan.adnan1818@gmail.com">
-    <img src="https://img.shields.io/badge/Email-furqan.adnan1818%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/furqan-adnan">
-    <img src="https://img.shields.io/badge/LinkedIn-in%2Ffurqan--adnan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  Reach me via <a href="mailto:furqan.adnan1818@gmail.com"><b>Email</b></a>
+  (furqan.adnan1818@gmail.com)
 </div>
