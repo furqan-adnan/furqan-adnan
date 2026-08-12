@@ -2,18 +2,14 @@
   <img src="https://raw.githubusercontent.com/furqan-adnan/furqan-adnan/refs/heads/main/cat-moon-banner.svg" width="100%" style="max-width: 700px;" alt="Cat and moon banner" />
 </div>
 
-<br />
-
-
-
 ---
 
 ## Quick overview
 
-> **Computer Science student @ FAST NUCES, Lahore**
-> Building backend systems, retrieval pipelines, and applications end to end. Interested in AI/ML, web development and SaaS.
- ---
+> **Computer Science student @ FAST NUCES, Lahore**  
+> Building backend systems, retrieval pipelines, and applications end-to-end. Interested in AI/ML, web development, and SaaS.
 
+---
 
 ## Tech stack
 
@@ -61,7 +57,6 @@
 </table>
 
 ---
- 
 
 ## Beyond the code
 
@@ -69,7 +64,7 @@
 * **Curiosity-driven** — always exploring new ideas and technologies.
 
 ---
+
 <div align="center">
-  Reach me via <a href="mailto:furqan.adnan1818@gmail.com"><b>Email</b></a>
-  (furqan.adnan1818@gmail.com)
+  Reach me via <a href="mailto:furqan.adnan1818@gmail.com"><b>Email</b></a> (furqan.adnan1818@gmail.com)
 </div>
