@@ -12,12 +12,9 @@
 
 > **Computer Science student @ FAST NUCES, Lahore**
 > Building backend systems, retrieval pipelines, and applications end to end. Interested in AI/ML, web development and SaaS.
+ ---
 
 
-
-
-
----
 ## Tech stack
 
 <table>
@@ -27,6 +24,7 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+      <img src="https://img.shields.io/badge/Assembly_x86-000000?style=for-the-badge&logo=assemblyscript&logoColor=white" />
       <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
     </td>
   </tr>
@@ -61,7 +59,9 @@
     </td>
   </tr>
 </table>
- ---
+
+---
+ 
 
 ## Beyond the code
 
